@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Environment / secrets — never commit real env files (templates stay tracked)
+.env
+.env.*
+!.env.example
+!.env.sample
+*.log
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+
+# Build
+build/
+dist/
+.coverage
+coverage.xml
+htmlcov/
+
+# Backend
+backend/.venv/
+backend/.pytest_cache/
+backend/.ruff_cache/
+backend/__pycache__/

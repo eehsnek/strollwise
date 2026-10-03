@@ -1,0 +1,156 @@
+[
+  {
+    "zone_id": "Z001",
+    "zone_name": "Talamban",
+    "city": "Cebu City",
+    "zone_type": "LOCAL",
+    "radius_km": 2.5,
+    "color": "green",
+    "center": { "lat": 10.3694, "lng": 123.9185 },
+    "characteristics": ["residential_communities", "universities_schools", "daily_commuter_activity", "low_tourist_concentration"],
+    "default_local_ratio": 0.92
+  },
+  {
+    "zone_id": "Z002",
+    "zone_name": "Pardo",
+    "city": "Cebu City",
+    "zone_type": "LOCAL",
+    "radius_km": 3.0,
+    "color": "green",
+    "center": { "lat": 10.2811, "lng": 123.8456 },
+    "characteristics": ["residential_density", "public_transport", "community_markets", "limited_tourism"],
+    "default_local_ratio": 0.90
+  },
+  {
+    "zone_id": "Z003",
+    "zone_name": "Minglanilla Proper",
+    "city": "Minglanilla",
+    "zone_type": "LOCAL",
+    "radius_km": 4.0,
+    "color": "green",
+    "center": { "lat": 10.2446, "lng": 123.7963 },
+    "characteristics": ["suburban_residential", "local_commerce", "community_movement"],
+    "default_local_ratio": 0.90
+  },
+  {
+    "zone_id": "Z004",
+    "zone_name": "Talisay Residential Area",
+    "city": "Talisay",
+    "zone_type": "LOCAL",
+    "radius_km": 3.0,
+    "color": "green",
+    "center": { "lat": 10.2449, "lng": 123.8493 },
+    "characteristics": ["housing_communities", "schools_public_services", "routine_local_mobility"],
+    "default_local_ratio": 0.87
+  },
+  {
+    "zone_id": "Z005",
+    "zone_name": "Mactan Resort Zone",
+    "city": "Lapu-Lapu City",
+    "zone_type": "INTERNATIONAL",
+    "radius_km": 5.0,
+    "color": "blue",
+    "center": { "lat": 10.2998, "lng": 124.0112 },
+    "characteristics": ["beach_resorts", "hotels_tourism", "airport_proximity", "foreign_visitors"],
+    "default_local_ratio": 0.08
+  },
+  {
+    "zone_id": "Z006",
+    "zone_name": "Colon Basilica Heritage Zone",
+    "city": "Cebu City",
+    "zone_type": "INTERNATIONAL",
+    "radius_km": 1.5,
+    "color": "blue",
+    "center": { "lat": 10.2942, "lng": 123.9017 },
+    "characteristics": ["historical_landmarks", "tourist_attractions", "guided_tours", "heritage_activity"],
+    "default_local_ratio": 0.18
+  },
+  {
+    "zone_id": "Z007",
+    "zone_name": "IT Park Business Zone",
+    "city": "Cebu City",
+    "zone_type": "INTERNATIONAL",
+    "radius_km": 1.75,
+    "color": "blue",
+    "center": { "lat": 10.3295, "lng": 123.9067 },
+    "characteristics": ["hotels", "foreign_business_visitors", "cafes_nightlife", "digital_nomads"],
+    "default_local_ratio": 0.22
+  },
+  {
+    "zone_id": "Z008",
+    "zone_name": "SRP Tourism Belt",
+    "city": "Cebu City",
+    "zone_type": "INTERNATIONAL",
+    "radius_km": 3.0,
+    "color": "blue",
+    "center": { "lat": 10.2869, "lng": 123.8808 },
+    "characteristics": ["entertainment_destinations", "tourist_attractions", "large_visitor_movement"],
+    "default_local_ratio": 0.15
+  },
+  {
+    "zone_id": "Z009",
+    "zone_name": "Ayala Center Cebu",
+    "city": "Cebu City",
+    "zone_type": "MIXED",
+    "radius_km": 2.5,
+    "color": "yellow",
+    "center": { "lat": 10.3174, "lng": 123.9058 },
+    "characteristics": ["shopping_malls", "offices", "hotels_restaurants", "tourist_local_overlap"],
+    "default_local_ratio": 0.55
+  },
+  {
+    "zone_id": "Z010",
+    "zone_name": "Fuente Osmeña",
+    "city": "Cebu City",
+    "zone_type": "MIXED",
+    "radius_km": 2.0,
+    "color": "yellow",
+    "center": { "lat": 10.3100, "lng": 123.8916 },
+    "characteristics": ["hospitals", "hotels", "restaurants", "public_transport"],
+    "default_local_ratio": 0.52
+  },
+  {
+    "zone_id": "Z011",
+    "zone_name": "SM City Cebu",
+    "city": "Cebu City",
+    "zone_type": "MIXED",
+    "radius_km": 2.5,
+    "color": "yellow",
+    "center": { "lat": 10.3116, "lng": 123.9182 },
+    "characteristics": ["commercial_center", "ferry_passengers", "shopping_dining", "visitor_overlap"],
+    "default_local_ratio": 0.48
+  },
+  {
+    "zone_id": "Z012",
+    "zone_name": "Carbon Market Area",
+    "city": "Cebu City",
+    "zone_type": "MIXED",
+    "radius_km": 2.0,
+    "color": "yellow",
+    "center": { "lat": 10.2933, "lng": 123.8998 },
+    "characteristics": ["local_market_culture", "tourist_curiosity", "commercial_activity", "heritage_exposure"],
+    "default_local_ratio": 0.58
+  },
+  {
+    "zone_id": "Z013",
+    "zone_name": "Lahug",
+    "city": "Cebu City",
+    "zone_type": "MIXED",
+    "radius_km": 3.5,
+    "color": "yellow",
+    "center": { "lat": 10.3335, "lng": 123.9030 },
+    "characteristics": ["it_park_influence", "residential_subdivisions", "universities_nearby", "cafes_coworking_nightlife"],
+    "default_local_ratio": 0.45
+  },
+  {
+    "zone_id": "Z014",
+    "zone_name": "Escario",
+    "city": "Cebu City",
+    "zone_type": "MIXED",
+    "radius_km": 2.5,
+    "color": "yellow",
+    "center": { "lat": 10.3157, "lng": 123.8919 },
+    "characteristics": ["hospitals", "residential_condos", "restaurants_cafes", "local_commuting"],
+    "default_local_ratio": 0.65
+  }
+]

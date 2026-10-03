@@ -1,0 +1,430 @@
+{
+  "talamban": {
+    "food": [
+      {"place_id": "gaisano-country-mall", "name": "Gaisano Country Mall food court", "address": "Talamban, Cebu City", "lat": 10.3655, "lng": 123.9168, "rating": 4.1, "review_count": 2100},
+      {"place_id": "jollibee-talamban", "name": "Jollibee Talamban", "address": "Talamban, Cebu City", "lat": 10.3688, "lng": 123.9175, "rating": 4.2, "review_count": 1800},
+      {"place_id": "mang-inasal-talamban", "name": "Mang Inasal Talamban", "address": "Cebu North Rd, Talamban", "lat": 10.3672, "lng": 123.9190, "rating": 4.1, "review_count": 950},
+      {"place_id": "sunburst-talamban", "name": "Sunburst Fried Chicken Talamban", "address": "Talamban, Cebu City", "lat": 10.3690, "lng": 123.9182, "rating": 4.0, "review_count": 620}
+    ],
+    "cafe": [
+      {"place_id": "bos-talamban", "name": "Bo's Coffee Talamban", "address": "Talamban, Cebu City", "lat": 10.3685, "lng": 123.9178, "rating": 4.3, "review_count": 480},
+      {"place_id": "starbucks-talamban", "name": "Starbucks Talamban", "address": "Cebu North Rd, Talamban", "lat": 10.3678, "lng": 123.9188, "rating": 4.4, "review_count": 520},
+      {"place_id": "coffeebean-talamban", "name": "The Coffee Bean & Tea Leaf Talamban", "address": "Talamban, Cebu City", "lat": 10.3680, "lng": 123.9170, "rating": 4.3, "review_count": 310}
+    ],
+    "nightlife": [
+      {"place_id": "usc-strip", "name": "USC Talamban student dining strip", "address": "Talamban, Cebu City", "lat": 10.3705, "lng": 123.9205, "rating": 4.0, "review_count": 400},
+      {"place_id": "pit-os-grill", "name": "Pit-os grill alleys (near Talamban)", "address": "Pit-os, Cebu City", "lat": 10.3550, "lng": 123.9120, "rating": 4.1, "review_count": 780}
+    ],
+    "tourist": [
+      {"place_id": "usc-campus", "name": "University of San Carlos Talamban Campus", "address": "Talamban, Cebu City", "lat": 10.3708, "lng": 123.9210, "rating": 4.4, "review_count": 1200},
+      {"place_id": "sto-nino-talamban", "name": "Sto. Niño Parish Church Talamban", "address": "Talamban, Cebu City", "lat": 10.3696, "lng": 123.9195, "rating": 4.5, "review_count": 890}
+    ],
+    "nature": [
+      {"place_id": "busay-from-talamban", "name": "Busay viewpoint road", "address": "Busay, Cebu City", "lat": 10.3720, "lng": 123.8850, "rating": 4.4, "review_count": 3200},
+      {"place_id": "mountain-view-talamban", "name": "Mountain View Nature's Park", "address": "Busay, Cebu City", "lat": 10.3750, "lng": 123.8820, "rating": 4.3, "review_count": 4100}
+    ],
+    "budget": [
+      {"place_id": "talamban-market", "name": "Talamban public market", "address": "Talamban, Cebu City", "lat": 10.3682, "lng": 123.9185, "rating": 4.0, "review_count": 540},
+      {"place_id": "carenderia-talamban", "name": "Talamban carenderia row", "address": "Talamban, Cebu City", "lat": 10.3692, "lng": 123.9198, "rating": 4.1, "review_count": 320}
+    ]
+  },
+  "pardo": {
+    "food": [
+      {"place_id": "pardo-market-food", "name": "Pardo Public Market eateries", "address": "Pardo, Cebu City", "lat": 10.2815, "lng": 123.8465, "rating": 4.0, "review_count": 1100},
+      {"place_id": "lechon-pardo", "name": "Cebuano Lechon Belly Pardo", "address": "Pardo, Cebu City", "lat": 10.2808, "lng": 123.8450, "rating": 4.3, "review_count": 890},
+      {"place_id": "jollibee-pardo", "name": "Jollibee Pardo", "address": "Natalio Bacalso Ave, Pardo", "lat": 10.2820, "lng": 123.8472, "rating": 4.2, "review_count": 1500},
+      {"place_id": "mang-inasal-pardo", "name": "Mang Inasal Pardo", "address": "Pardo, Cebu City", "lat": 10.2810, "lng": 123.8460, "rating": 4.1, "review_count": 720}
+    ],
+    "cafe": [
+      {"place_id": "bos-pardo", "name": "Bo's Coffee Pardo", "address": "Pardo, Cebu City", "lat": 10.2818, "lng": 123.8468, "rating": 4.2, "review_count": 280},
+      {"place_id": "7-eleven-pardo", "name": "7-Eleven Pardo (coffee & snacks)", "address": "Pardo, Cebu City", "lat": 10.2805, "lng": 123.8455, "rating": 4.0, "review_count": 150}
+    ],
+    "nightlife": [
+      {"place_id": "pardo-bbq-night", "name": "Pardo night BBQ stalls", "address": "Pardo, Cebu City", "lat": 10.2812, "lng": 123.8462, "rating": 4.0, "review_count": 450},
+      {"place_id": "bulacao-strip", "name": "Bulacao grill strip (near Pardo)", "address": "Bulacao, Cebu City", "lat": 10.2750, "lng": 123.8520, "rating": 4.1, "review_count": 620}
+    ],
+    "tourist": [
+      {"place_id": "guadalupe-pardo", "name": "Nuestra Señora de Guadalupe Parish", "address": "Pardo, Cebu City", "lat": 10.2825, "lng": 123.8475, "rating": 4.5, "review_count": 2100},
+      {"place_id": "pardo-beach-road", "name": "South Coastal Rd viewpoint (Pardo)", "address": "Pardo, Cebu City", "lat": 10.2790, "lng": 123.8440, "rating": 4.2, "review_count": 480}
+    ],
+    "nature": [
+      {"place_id": "south-coastal-pardo", "name": "South Coastal Road bay walk", "address": "Pardo, Cebu City", "lat": 10.2785, "lng": 123.8435, "rating": 4.3, "review_count": 980},
+      {"place_id": "talisay-border", "name": "Talisay–Pardo green belt", "address": "Talisay City border", "lat": 10.2680, "lng": 123.8480, "rating": 4.1, "review_count": 340}
+    ],
+    "budget": [
+      {"place_id": "pardo-market", "name": "Pardo Public Market", "address": "Pardo, Cebu City", "lat": 10.2815, "lng": 123.8465, "rating": 4.0, "review_count": 1100},
+      {"place_id": "carenderia-pardo", "name": "Pardo carenderia lane", "address": "Pardo, Cebu City", "lat": 10.2800, "lng": 123.8458, "rating": 4.0, "review_count": 290}
+    ]
+  },
+  "minglanilla": {
+    "food": [
+      {"place_id": "minglanilla-public-market", "name": "Minglanilla Public Market food", "address": "Minglanilla, Cebu", "lat": 10.2450, "lng": 123.7970, "rating": 4.0, "review_count": 780},
+      {"place_id": "jollibee-minglanilla", "name": "Jollibee Minglanilla", "address": "Minglanilla, Cebu", "lat": 10.2448, "lng": 123.7968, "rating": 4.2, "review_count": 1200},
+      {"place_id": "mang-inasal-minglanilla", "name": "Mang Inasal Minglanilla", "address": "Minglanilla, Cebu", "lat": 10.2442, "lng": 123.7960, "rating": 4.1, "review_count": 650},
+      {"place_id": "lechon-minglanilla", "name": "Rico's Lechon (south route)", "address": "Minglanilla, Cebu", "lat": 10.2460, "lng": 123.7985, "rating": 4.4, "review_count": 2400}
+    ],
+    "cafe": [
+      {"place_id": "bos-minglanilla", "name": "Bo's Coffee Minglanilla", "address": "Minglanilla, Cebu", "lat": 10.2445, "lng": 123.7965, "rating": 4.2, "review_count": 220},
+      {"place_id": "cafe-roma-minglanilla", "name": "Cafe Roma Minglanilla", "address": "Minglanilla, Cebu", "lat": 10.2455, "lng": 123.7975, "rating": 4.1, "review_count": 180}
+    ],
+    "nightlife": [
+      {"place_id": "minglanilla-bbq", "name": "Minglanilla night BBQ row", "address": "Minglanilla, Cebu", "lat": 10.2440, "lng": 123.7955, "rating": 4.0, "review_count": 410},
+      {"place_id": "tunghaan-minglanilla", "name": "Tunghaan Minglanilla", "address": "Minglanilla, Cebu", "lat": 10.2458, "lng": 123.7980, "rating": 4.1, "review_count": 520}
+    ],
+    "tourist": [
+      {"place_id": "minglanilla-church", "name": "Minglanilla Church (Sugat sa Minglanilla)", "address": "Minglanilla, Cebu", "lat": 10.2446, "lng": 123.7963, "rating": 4.5, "review_count": 1800},
+      {"place_id": "sugba-beach", "name": "Sugba Beach (Minglanilla coast)", "address": "Minglanilla, Cebu", "lat": 10.2380, "lng": 123.7920, "rating": 4.2, "review_count": 950}
+    ],
+    "nature": [
+      {"place_id": "minglanilla-coast", "name": "Minglanilla coastal road", "address": "Minglanilla, Cebu", "lat": 10.2370, "lng": 123.7910, "rating": 4.3, "review_count": 720},
+      {"place_id": "tulay-na-lupa", "name": "Tulay na Lupa viewpoint", "address": "Minglanilla, Cebu", "lat": 10.2500, "lng": 123.8000, "rating": 4.2, "review_count": 480}
+    ],
+    "budget": [
+      {"place_id": "minglanilla-market", "name": "Minglanilla Public Market", "address": "Minglanilla, Cebu", "lat": 10.2450, "lng": 123.7970, "rating": 4.0, "review_count": 780},
+      {"place_id": "carenderia-minglanilla", "name": "Minglanilla carenderia strip", "address": "Minglanilla, Cebu", "lat": 10.2443, "lng": 123.7962, "rating": 4.0, "review_count": 260}
+    ]
+  },
+  "talisay": {
+    "food": [
+      {"place_id": "tabunok-market", "name": "Tabunok Public Market food", "address": "Tabunok, Talisay City", "lat": 10.2580, "lng": 123.8520, "rating": 4.0, "review_count": 920},
+      {"place_id": "jollibee-talisay", "name": "Jollibee Talisay", "address": "Talisay City", "lat": 10.2455, "lng": 123.8495, "rating": 4.2, "review_count": 1400},
+      {"place_id": "mang-inasal-talisay", "name": "Mang Inasal Talisay", "address": "Talisay City", "lat": 10.2445, "lng": 123.8488, "rating": 4.1, "review_count": 680},
+      {"place_id": "lechon-talisay", "name": "Cebu Lechon Talisay strip", "address": "Talisay City", "lat": 10.2460, "lng": 123.8505, "rating": 4.3, "review_count": 1100}
+    ],
+    "cafe": [
+      {"place_id": "bos-talisay", "name": "Bo's Coffee Talisay", "address": "Talisay City", "lat": 10.2450, "lng": 123.8490, "rating": 4.2, "review_count": 310},
+      {"place_id": "starbucks-talisay", "name": "Starbucks Talisay", "address": "Talisay City", "lat": 10.2465, "lng": 123.8510, "rating": 4.3, "review_count": 420}
+    ],
+    "nightlife": [
+      {"place_id": "talisay-bbq", "name": "Talisay night BBQ market", "address": "Talisay City", "lat": 10.2440, "lng": 123.8485, "rating": 4.0, "review_count": 380},
+      {"place_id": "pooc-beach-bar", "name": "Pooc beachside grills", "address": "Talisay City", "lat": 10.2380, "lng": 123.8550, "rating": 4.1, "review_count": 540}
+    ],
+    "tourist": [
+      {"place_id": "talisay-city-hall", "name": "Talisay City Hall plaza", "address": "Talisay City", "lat": 10.2449, "lng": 123.8493, "rating": 4.2, "review_count": 620},
+      {"place_id": "sta-teresa-talisay", "name": "Sta. Teresa de Avila Parish", "address": "Talisay City", "lat": 10.2458, "lng": 123.8500, "rating": 4.4, "review_count": 890}
+    ],
+    "nature": [
+      {"place_id": "lagtang-talisay", "name": "Lagtang hills viewpoint", "address": "Talisay City", "lat": 10.2520, "lng": 123.8450, "rating": 4.2, "review_count": 410},
+      {"place_id": "pooc-beach", "name": "Pooc White Beach", "address": "Talisay City", "lat": 10.2375, "lng": 123.8545, "rating": 4.1, "review_count": 780}
+    ],
+    "budget": [
+      {"place_id": "tabunok-market-budget", "name": "Tabunok Public Market", "address": "Tabunok, Talisay City", "lat": 10.2580, "lng": 123.8520, "rating": 4.0, "review_count": 920},
+      {"place_id": "carenderia-talisay", "name": "Talisay carenderia row", "address": "Talisay City", "lat": 10.2442, "lng": 123.8480, "rating": 4.0, "review_count": 270}
+    ]
+  },
+  "mactan": {
+    "food": [
+      {"place_id": "mactan-newtown", "name": "Mactan Newtown dining strip", "address": "Lapu-Lapu City", "lat": 10.3180, "lng": 124.0150, "rating": 4.4, "review_count": 3200},
+      {"place_id": "larsian-mactan", "name": "Mactan island seafood grills", "address": "Lapu-Lapu City", "lat": 10.3050, "lng": 124.0080, "rating": 4.3, "review_count": 2100},
+      {"place_id": "mactan-cebuana-lechon", "name": "Rico's Lechon Mactan", "address": "Lapu-Lapu City", "lat": 10.3020, "lng": 124.0050, "rating": 4.5, "review_count": 4500},
+      {"place_id": "garden-bloc-mactan", "name": "The Glistening Grove (Mactan)", "address": "Punta Engaño, Lapu-Lapu", "lat": 10.2980, "lng": 124.0120, "rating": 4.3, "review_count": 1800}
+    ],
+    "cafe": [
+      {"place_id": "starbucks-mactan", "name": "Starbucks Mactan Airport", "address": "Lapu-Lapu City", "lat": 10.3075, "lng": 123.9795, "rating": 4.3, "review_count": 890},
+      {"place_id": "coffee-bean-mactan", "name": "The Coffee Bean Mactan", "address": "Lapu-Lapu City", "lat": 10.3100, "lng": 124.0100, "rating": 4.2, "review_count": 520},
+      {"place_id": "abaca-baking-mactan", "name": "Abaca Baking Company Mactan", "address": "Mactan Newtown", "lat": 10.3175, "lng": 124.0145, "rating": 4.5, "review_count": 1100}
+    ],
+    "nightlife": [
+      {"place_id": "mactan-resort-bars", "name": "Shangri-La Mactan bars", "address": "Punta Engaño, Lapu-Lapu", "lat": 10.3080, "lng": 124.0180, "rating": 4.6, "review_count": 2400},
+      {"place_id": "mactan-crimson-bar", "name": "Crimson Resort Mactan lounge", "address": "Mactan, Lapu-Lapu", "lat": 10.3120, "lng": 124.0060, "rating": 4.5, "review_count": 1900},
+      {"place_id": "ibiza-mactan", "name": "Ibiza Beach Club Mactan", "address": "Mactan, Lapu-Lapu", "lat": 10.3010, "lng": 124.0090, "rating": 4.2, "review_count": 1500}
+    ],
+    "tourist": [
+      {"place_id": "mactan-shrine", "name": "Mactan Shrine (Lapu-Lapu Monument)", "address": "Mactan, Lapu-Lapu City", "lat": 10.3108, "lng": 124.0155, "rating": 4.5, "review_count": 8500},
+      {"place_id": "mactan-island-hopping", "name": "Mactan island-hopping pier", "address": "Lapu-Lapu City", "lat": 10.3055, "lng": 124.0085, "rating": 4.4, "review_count": 4200},
+      {"place_id": "nalusuan", "name": "Nalusuan Island (day trip)", "address": "Cordova / Mactan channel", "lat": 10.2850, "lng": 124.0200, "rating": 4.3, "review_count": 2100},
+      {"place_id": "pandanon-island", "name": "Caohagan / Pandanon sandbar tours", "address": "Off Mactan", "lat": 10.2700, "lng": 124.0300, "rating": 4.4, "review_count": 1800}
+    ],
+    "nature": [
+      {"place_id": "mactan-beach", "name": "Mactan white-sand beaches", "address": "Lapu-Lapu City", "lat": 10.3060, "lng": 124.0100, "rating": 4.5, "review_count": 5600},
+      {"place_id": "olango-wildlife", "name": "Olango Island Wildlife Sanctuary", "address": "Cordova, Cebu", "lat": 10.2680, "lng": 124.0400, "rating": 4.3, "review_count": 2900},
+      {"place_id": "hilutungan-marine", "name": "Hilutungan Marine Sanctuary", "address": "Cordova, Cebu", "lat": 10.2750, "lng": 124.0250, "rating": 4.4, "review_count": 2200}
+    ],
+    "budget": [
+      {"place_id": "mactan-public-market", "name": "Mactan public market eats", "address": "Lapu-Lapu City", "lat": 10.3000, "lng": 124.0020, "rating": 4.0, "review_count": 680},
+      {"place_id": "carenderia-mactan", "name": "Mactan carenderia near airport", "address": "Lapu-Lapu City", "lat": 10.3085, "lng": 123.9820, "rating": 4.0, "review_count": 420}
+    ]
+  },
+  "colon": {
+    "food": [
+      {"place_id": "carbon-market", "name": "Carbon Market", "address": "Carbon, Cebu City", "lat": 10.2954, "lng": 123.8994, "rating": 4.1, "review_count": 5200},
+      {"place_id": "leonardos-lechon", "name": "Leonardo's Lechon House", "address": "Near Colon, Cebu City", "lat": 10.2966, "lng": 123.8986, "rating": 4.3, "review_count": 1900},
+      {"place_id": "pungko-pungko", "name": "Pungko-pungko sa Fuente (Colon access)", "address": "Colon area, Cebu City", "lat": 10.2970, "lng": 123.9000, "rating": 4.2, "review_count": 2400},
+      {"place_id": "sugbo-food-colon", "name": "Sugbo Mercado (weekend pop-up near downtown)", "address": "Cebu City", "lat": 10.2980, "lng": 123.9010, "rating": 4.4, "review_count": 3100}
+    ],
+    "cafe": [
+      {"place_id": "coffee-talk-colon", "name": "Coffee Talk Cafe (downtown)", "address": "Colon St area, Cebu City", "lat": 10.2950, "lng": 123.9005, "rating": 4.2, "review_count": 480},
+      {"place_id": "mugshots-colon", "name": "Mugshots Coffee (near heritage)", "address": "Cebu City", "lat": 10.2945, "lng": 123.9015, "rating": 4.3, "review_count": 620},
+      {"place_id": "bo's-colon", "name": "Bo's Coffee Colon corridor", "address": "Cebu City", "lat": 10.2960, "lng": 123.8990, "rating": 4.2, "review_count": 350}
+    ],
+    "nightlife": [
+      {"place_id": "colon-street-night", "name": "Colon Street night market", "address": "Colon St, Cebu City", "lat": 10.2942, "lng": 123.9017, "rating": 4.0, "review_count": 1800},
+      {"place_id": "mango-from-colon", "name": "Mango Avenue (short jeepney ride)", "address": "General Maxilom Ave", "lat": 10.3123, "lng": 123.8976, "rating": 4.0, "review_count": 2100}
+    ],
+    "tourist": [
+      {"place_id": "basilica", "name": "Basilica Minore del Santo Niño", "address": "Pilgrim's Center, Cebu City", "lat": 10.2942, "lng": 123.9022, "rating": 4.6, "review_count": 15000},
+      {"place_id": "magellan", "name": "Magellan's Cross", "address": "Magallanes St, Cebu City", "lat": 10.2930, "lng": 123.9029, "rating": 4.4, "review_count": 8000},
+      {"place_id": "fort-san-pedro", "name": "Fort San Pedro", "address": "Pier area, Cebu City", "lat": 10.2922, "lng": 123.9058, "rating": 4.3, "review_count": 5200},
+      {"place_id": "heritage-of-cebu", "name": "Heritage of Cebu Monument", "address": "Colon St, Cebu City", "lat": 10.2948, "lng": 123.9010, "rating": 4.3, "review_count": 3400}
+    ],
+    "nature": [
+      {"place_id": "pier-walk", "name": "Cebu pier bay walk", "address": "Pier area, Cebu City", "lat": 10.2915, "lng": 123.9060, "rating": 4.1, "review_count": 890},
+      {"place_id": "mountain-view-colon", "name": "Mountain View (short taxi)", "address": "Busay, Cebu City", "lat": 10.3750, "lng": 123.8820, "rating": 4.3, "review_count": 4100}
+    ],
+    "budget": [
+      {"place_id": "carbon-budget", "name": "Carbon Market dry goods & eats", "address": "Carbon, Cebu City", "lat": 10.2954, "lng": 123.8994, "rating": 4.1, "review_count": 5200},
+      {"place_id": "colon-carenderia", "name": "Colon carenderia row", "address": "Colon St, Cebu City", "lat": 10.2940, "lng": 123.9008, "rating": 4.0, "review_count": 720}
+    ]
+  },
+  "it_park": {
+    "food": [
+      {"place_id": "sugbo-mercado", "name": "Sugbo Mercado IT Park", "address": "Garden Bloc, Cebu IT Park, Lahug", "lat": 10.3292, "lng": 123.9068, "rating": 4.4, "review_count": 4200},
+      {"place_id": "pho-king", "name": "Pho King IT Park", "address": "Cebu IT Park, Lahug", "lat": 10.3310, "lng": 123.9052, "rating": 4.5, "review_count": 1200},
+      {"place_id": "ramen-yushoken", "name": "Ramen Yushoken Cebu", "address": "Cebu IT Park, Lahug", "lat": 10.3308, "lng": 123.9060, "rating": 4.6, "review_count": 2800},
+      {"place_id": "zubuchon-itpark", "name": "Zubuchon IT Park", "address": "Cebu IT Park, Lahug", "lat": 10.3298, "lng": 123.9055, "rating": 4.4, "review_count": 2100}
+    ],
+    "cafe": [
+      {"place_id": "bintana-coffee", "name": "Bintana Coffee", "address": "Cebu IT Park, Lahug", "lat": 10.3302, "lng": 123.9062, "rating": 4.5, "review_count": 520},
+      {"place_id": "ugly-cafe", "name": "The Ugly Cafe IT Park", "address": "Cebu IT Park, Lahug", "lat": 10.3295, "lng": 123.9058, "rating": 4.4, "review_count": 780},
+      {"place_id": "coffee-bean-itpark", "name": "The Coffee Bean IT Park", "address": "Cebu IT Park, Lahug", "lat": 10.3300, "lng": 123.9065, "rating": 4.3, "review_count": 640},
+      {"place_id": "drip-cafe-itpark", "name": "Drip Cafe IT Park", "address": "Cebu IT Park, Lahug", "lat": 10.3290, "lng": 123.9050, "rating": 4.4, "review_count": 410}
+    ],
+    "nightlife": [
+      {"place_id": "mango-square", "name": "Mango Square", "address": "General Maxilom Ave, Cebu City", "lat": 10.3125, "lng": 123.8978, "rating": 4.1, "review_count": 2800},
+      {"place_id": "ipark-social", "name": "IT Park nightlife strip", "address": "Cebu IT Park, Lahug", "lat": 10.3305, "lng": 123.9066, "rating": 4.2, "review_count": 1500},
+      {"place_id": "pulp-live", "name": "Pulp Live Club (near IT Park)", "address": "Cebu City", "lat": 10.3280, "lng": 123.9040, "rating": 4.0, "review_count": 980},
+      {"place_id": "la-negra", "name": "La Negra IT Park", "address": "Cebu IT Park, Lahug", "lat": 10.3290, "lng": 123.9050, "rating": 4.2, "review_count": 890}
+    ],
+    "tourist": [
+      {"place_id": "it-park-walk", "name": "Cebu IT Park walkway", "address": "Cebu IT Park, Lahug", "lat": 10.3305, "lng": 123.9066, "rating": 4.3, "review_count": 1200},
+      {"place_id": "ayala-from-itpark", "name": "Ayala Center Cebu (short ride)", "address": "Cebu Business Park", "lat": 10.3176, "lng": 123.9053, "rating": 4.6, "review_count": 12000}
+    ],
+    "nature": [
+      {"place_id": "busay-tops-itpark", "name": "Busay / Tops viewpoint", "address": "Busay, Cebu City", "lat": 10.3700, "lng": 123.8780, "rating": 4.4, "review_count": 7200},
+      {"place_id": "sirao-itpark", "name": "Sirao Flower Garden", "address": "Busay, Cebu City", "lat": 10.3780, "lng": 123.8720, "rating": 4.3, "review_count": 6500}
+    ],
+    "budget": [
+      {"place_id": "fooda-itpark", "name": "Fooda Saversmart IT Park area", "address": "Lahug, Cebu City", "lat": 10.3285, "lng": 123.9045, "rating": 4.0, "review_count": 540},
+      {"place_id": "carenderia-itpark", "name": "IT Park carenderia lane", "address": "Cebu IT Park, Lahug", "lat": 10.3288, "lng": 123.9052, "rating": 4.1, "review_count": 380}
+    ]
+  },
+  "srp": {
+    "food": [
+      {"place_id": "sm-seaside-food", "name": "SM Seaside City food hall", "address": "South Road Properties, Cebu City", "lat": 10.2835, "lng": 123.8785, "rating": 4.4, "review_count": 6800},
+      {"place_id": "il-corso", "name": "Il Corso dining strip", "address": "SRP, Cebu City", "lat": 10.2850, "lng": 123.8795, "rating": 4.3, "review_count": 2400},
+      {"place_id": "sugbo-srp", "name": "Sugbo Mercado SRP", "address": "South Road Properties", "lat": 10.2840, "lng": 123.8780, "rating": 4.4, "review_count": 3100},
+      {"place_id": "nustar-dining", "name": "Nustar Resort dining", "address": "SRP, Cebu City", "lat": 10.2820, "lng": 123.8770, "rating": 4.2, "review_count": 1200}
+    ],
+    "cafe": [
+      {"place_id": "starbucks-seaside", "name": "Starbucks SM Seaside", "address": "SRP, Cebu City", "lat": 10.2838, "lng": 123.8788, "rating": 4.3, "review_count": 720},
+      {"place_id": "abaca-seaside", "name": "Abaca Baking Company Seaside", "address": "SM Seaside, Cebu City", "lat": 10.2842, "lng": 123.8790, "rating": 4.5, "review_count": 1100},
+      {"place_id": "coffee-bean-srp", "name": "The Coffee Bean SM Seaside", "address": "SRP, Cebu City", "lat": 10.2836, "lng": 123.8786, "rating": 4.2, "review_count": 480}
+    ],
+    "nightlife": [
+      {"place_id": "nustar-casino", "name": "Nustar Resort & Casino nightlife", "address": "SRP, Cebu City", "lat": 10.2820, "lng": 123.8770, "rating": 4.2, "review_count": 1500},
+      {"place_id": "seaside-bars", "name": "SM Seaside bayfront bars", "address": "SRP, Cebu City", "lat": 10.2830, "lng": 123.8782, "rating": 4.1, "review_count": 980},
+      {"place_id": "il-corso-bars", "name": "Il Corso evening dining", "address": "SRP, Cebu City", "lat": 10.2850, "lng": 123.8795, "rating": 4.2, "review_count": 1100}
+    ],
+    "tourist": [
+      {"place_id": "sm-seaside", "name": "SM Seaside City Cebu", "address": "South Road Properties", "lat": 10.2836, "lng": 123.8789, "rating": 4.5, "review_count": 11000},
+      {"place_id": "san-pedro-srp", "name": "Fort San Pedro (short ride)", "address": "Pier area, Cebu City", "lat": 10.2922, "lng": 123.9058, "rating": 4.3, "review_count": 5200},
+      {"place_id": "cebu-ocean-park", "name": "Cebu Ocean Park", "address": "SRP, Cebu City", "lat": 10.2815, "lng": 123.8765, "rating": 4.2, "review_count": 3400}
+    ],
+    "nature": [
+      {"place_id": "srp-baywalk", "name": "SRP bay walk & sunset", "address": "South Road Properties", "lat": 10.2825, "lng": 123.8775, "rating": 4.4, "review_count": 4200},
+      {"place_id": "cordova-srp", "name": "Cordova coastal view (from SRP)", "address": "Cordova, Cebu", "lat": 10.2700, "lng": 123.8700, "rating": 4.2, "review_count": 890}
+    ],
+    "budget": [
+      {"place_id": "seaside-foodcourt", "name": "SM Seaside budget food court", "address": "SRP, Cebu City", "lat": 10.2835, "lng": 123.8785, "rating": 4.2, "review_count": 4500},
+      {"place_id": "srp-carenderia", "name": "SRP worker carenderia row", "address": "SRP, Cebu City", "lat": 10.2845, "lng": 123.8792, "rating": 4.0, "review_count": 320}
+    ]
+  },
+  "ayala": {
+    "food": [
+      {"place_id": "ayala-food-court", "name": "Ayala Center Cebu dining", "address": "Cebu Business Park", "lat": 10.3176, "lng": 123.9053, "rating": 4.5, "review_count": 9500},
+      {"place_id": "cibo-ayala", "name": "Cibo Ayala Center", "address": "Ayala Center Cebu", "lat": 10.3180, "lng": 123.9050, "rating": 4.4, "review_count": 1800},
+      {"place_id": "social-ayala", "name": "The Social Ayala", "address": "Ayala Center Cebu", "lat": 10.3178, "lng": 123.9058, "rating": 4.3, "review_count": 1200},
+      {"place_id": "mango-grill-ayala", "name": "Mango Grill & Cafe Ayala", "address": "Cebu Business Park", "lat": 10.3182, "lng": 123.9055, "rating": 4.2, "review_count": 890}
+    ],
+    "cafe": [
+      {"place_id": "starbucks-ayala", "name": "Starbucks Ayala Center", "address": "Ayala Center Cebu", "lat": 10.3178, "lng": 123.9055, "rating": 4.4, "review_count": 1100},
+      {"place_id": "abaca-ayala", "name": "Abaca Baking Company Ayala", "address": "Cebu Business Park", "lat": 10.3185, "lng": 123.9060, "rating": 4.5, "review_count": 1400},
+      {"place_id": "coffee-bean-ayala", "name": "The Coffee Bean Ayala", "address": "Ayala Center Cebu", "lat": 10.3175, "lng": 123.9052, "rating": 4.3, "review_count": 620}
+    ],
+    "nightlife": [
+      {"place_id": "the-social-night", "name": "The Social evening lounge", "address": "Ayala Center Cebu", "lat": 10.3178, "lng": 123.9058, "rating": 4.2, "review_count": 780},
+      {"place_id": "mango-ayala", "name": "Mango Avenue (near Ayala)", "address": "Cebu City", "lat": 10.3123, "lng": 123.8976, "rating": 4.0, "review_count": 2100}
+    ],
+    "tourist": [
+      {"place_id": "ayala-mall", "name": "Ayala Center Cebu", "address": "Cebu Business Park", "lat": 10.3176, "lng": 123.9053, "rating": 4.6, "review_count": 14000},
+      {"place_id": "cebu-business-park", "name": "Cebu Business Park skyline walk", "address": "Cebu Business Park", "lat": 10.3190, "lng": 123.9065, "rating": 4.3, "review_count": 2100},
+      {"place_id": "terraces-ayala", "name": "The Terraces Ayala", "address": "Ayala Center Cebu", "lat": 10.3180, "lng": 123.9062, "rating": 4.4, "review_count": 3200}
+    ],
+    "nature": [
+      {"place_id": "ayala-green", "name": "Cebu Business Park pocket parks", "address": "Cebu Business Park", "lat": 10.3195, "lng": 123.9070, "rating": 4.1, "review_count": 480},
+      {"place_id": "tops-from-ayala", "name": "Busay Tops (taxi ride)", "address": "Busay, Cebu City", "lat": 10.3700, "lng": 123.8780, "rating": 4.4, "review_count": 7200}
+    ],
+    "budget": [
+      {"place_id": "ayala-foodcourt-budget", "name": "Ayala food court value meals", "address": "Ayala Center Cebu", "lat": 10.3176, "lng": 123.9053, "rating": 4.3, "review_count": 5600},
+      {"place_id": "jollibee-ayala", "name": "Jollibee Ayala area", "address": "Cebu Business Park", "lat": 10.3170, "lng": 123.9048, "rating": 4.2, "review_count": 1200}
+    ]
+  },
+  "fuente": {
+    "food": [
+      {"place_id": "larsian", "name": "Larsian BBQ", "address": "Fuente Osmeña, Cebu City", "lat": 10.3096, "lng": 123.8944, "rating": 4.2, "review_count": 5800},
+      {"place_id": "robinsons-fuente", "name": "Robinsons Fuente food court", "address": "Fuente Osmeña Blvd, Cebu City", "lat": 10.3105, "lng": 123.8921, "rating": 4.1, "review_count": 2800},
+      {"place_id": "house-of-lechon-fuente", "name": "House of Lechon (near Fuente)", "address": "Cebu City", "lat": 10.3110, "lng": 123.8935, "rating": 4.4, "review_count": 3200},
+      {"place_id": "pungko-fuente", "name": "Pungko-pungko sa Fuente", "address": "Fuente Osmeña circle", "lat": 10.3098, "lng": 123.8918, "rating": 4.3, "review_count": 4100}
+    ],
+    "cafe": [
+      {"place_id": "starbucks-fuente", "name": "Starbucks Fuente", "address": "Fuente Osmeña circle area", "lat": 10.3099, "lng": 123.8915, "rating": 4.3, "review_count": 520},
+      {"place_id": "bos-fuente", "name": "Bo's Coffee Fuente", "address": "Fuente Osmeña, Cebu City", "lat": 10.3102, "lng": 123.8920, "rating": 4.2, "review_count": 480},
+      {"place_id": "coffee-bean-fuente", "name": "The Coffee Bean Fuente", "address": "Cebu City", "lat": 10.3108, "lng": 123.8925, "rating": 4.2, "review_count": 350}
+    ],
+    "nightlife": [
+      {"place_id": "mango-avenue", "name": "Mango Avenue nightlife", "address": "General Maxilom Ave, Cebu City", "lat": 10.3123, "lng": 123.8976, "rating": 4.0, "review_count": 3200},
+      {"place_id": "mango-square-fuente", "name": "Mango Square clubs", "address": "General Maxilom Ave", "lat": 10.3125, "lng": 123.8978, "rating": 4.1, "review_count": 2800},
+      {"place_id": "junkyard-fuente", "name": "Junkyard Pub & Grill", "address": "Near Fuente, Cebu City", "lat": 10.3115, "lng": 123.8965, "rating": 4.2, "review_count": 1100}
+    ],
+    "tourist": [
+      {"place_id": "fuente-circle", "name": "Fuente Osmeña Circle", "address": "Fuente Osmeña, Cebu City", "lat": 10.3100, "lng": 123.8916, "rating": 4.3, "review_count": 4500},
+      {"place_id": "chong-hua", "name": "Chong Hua Hospital landmark", "address": "Fuente area, Cebu City", "lat": 10.3118, "lng": 123.8940, "rating": 4.2, "review_count": 1800},
+      {"place_id": "capitol-site", "name": "Cebu Provincial Capitol (nearby)", "address": "Capitol Site, Cebu City", "lat": 10.3172, "lng": 123.8958, "rating": 4.3, "review_count": 2200}
+    ],
+    "nature": [
+      {"place_id": "capitol-park", "name": "Capitol Site pocket parks", "address": "Capitol Site, Cebu City", "lat": 10.3165, "lng": 123.8950, "rating": 4.0, "review_count": 420},
+      {"place_id": "busay-fuente", "name": "Busay viewpoint (ride from Fuente)", "address": "Busay, Cebu City", "lat": 10.3700, "lng": 123.8780, "rating": 4.4, "review_count": 7200}
+    ],
+    "budget": [
+      {"place_id": "larsian-budget", "name": "Larsian BBQ budget plates", "address": "Fuente Osmeña", "lat": 10.3096, "lng": 123.8944, "rating": 4.2, "review_count": 5800},
+      {"place_id": "pungko-budget", "name": "Pungko-pungko sa Fuente", "address": "Fuente Osmeña circle", "lat": 10.3098, "lng": 123.8918, "rating": 4.3, "review_count": 4100}
+    ]
+  },
+  "sm_city": {
+    "food": [
+      {"place_id": "sm-city-cebu-food", "name": "SM City Cebu food hall", "address": "North Reclamation, Cebu City", "lat": 10.3112, "lng": 123.9187, "rating": 4.3, "review_count": 6200},
+      {"place_id": "snackhaus-sm", "name": "Snackhaus SM City", "address": "SM City Cebu", "lat": 10.3115, "lng": 123.9185, "rating": 4.2, "review_count": 980},
+      {"place_id": "mang-inasal-sm", "name": "Mang Inasal SM City Cebu", "address": "North Reclamation", "lat": 10.3110, "lng": 123.9180, "rating": 4.1, "review_count": 1100},
+      {"place_id": "jollibee-sm", "name": "Jollibee SM City Cebu", "address": "SM City Cebu", "lat": 10.3118, "lng": 123.9190, "rating": 4.2, "review_count": 1500}
+    ],
+    "cafe": [
+      {"place_id": "starbucks-sm", "name": "Starbucks SM City Cebu", "address": "North Reclamation", "lat": 10.3114, "lng": 123.9188, "rating": 4.3, "review_count": 680},
+      {"place_id": "bos-sm", "name": "Bo's Coffee SM City", "address": "SM City Cebu", "lat": 10.3116, "lng": 123.9182, "rating": 4.2, "review_count": 420},
+      {"place_id": "coffee-bean-sm", "name": "The Coffee Bean SM City", "address": "SM City Cebu", "lat": 10.3112, "lng": 123.9186, "rating": 4.2, "review_count": 380}
+    ],
+    "nightlife": [
+      {"place_id": "sm-rooftop", "name": "SM City evening dining strip", "address": "North Reclamation", "lat": 10.3113, "lng": 123.9180, "rating": 4.1, "review_count": 720},
+      {"place_id": "pier-one-sm", "name": "Pier One bar & grill (near port)", "address": "North Reclamation", "lat": 10.3100, "lng": 123.9200, "rating": 4.0, "review_count": 890}
+    ],
+    "tourist": [
+      {"place_id": "sm-cebu-mall", "name": "SM City Cebu", "address": "North Reclamation Area", "lat": 10.3113, "lng": 123.9180, "rating": 4.4, "review_count": 11000},
+      {"place_id": "pier-1-cebu", "name": "Cebu Pier 1 (ferry terminal)", "address": "North Reclamation", "lat": 10.3095, "lng": 123.9210, "rating": 4.1, "review_count": 2400},
+      {"place_id": "parkmall", "name": "Parkmall Mandaue (short ride)", "address": "Mandaue City", "lat": 10.3250, "lng": 123.9280, "rating": 4.2, "review_count": 3200}
+    ],
+    "nature": [
+      {"place_id": "harbor-view-sm", "name": "Cebu harbor sunset view", "address": "North Reclamation", "lat": 10.3085, "lng": 123.9220, "rating": 4.2, "review_count": 540},
+      {"place_id": "mactan-bridge-view", "name": "Mandaue–Mactan bridge viewpoint", "address": "North Reclamation", "lat": 10.3120, "lng": 123.9250, "rating": 4.1, "review_count": 680}
+    ],
+    "budget": [
+      {"place_id": "sm-foodcourt", "name": "SM City Cebu food court", "address": "North Reclamation", "lat": 10.3112, "lng": 123.9187, "rating": 4.2, "review_count": 5200},
+      {"place_id": "savemore-sm", "name": "Savemore / grocery food finds", "address": "SM City Cebu", "lat": 10.3115, "lng": 123.9184, "rating": 4.0, "review_count": 410}
+    ]
+  },
+  "carbon": {
+    "food": [
+      {"place_id": "carbon-market-main", "name": "Carbon Public Market", "address": "Carbon, Cebu City", "lat": 10.2933, "lng": 123.8998, "rating": 4.1, "review_count": 4800},
+      {"place_id": "dried-fish-carbon", "name": "Carbon dried fish section", "address": "Carbon, Cebu City", "lat": 10.2940, "lng": 123.8990, "rating": 4.0, "review_count": 2100},
+      {"place_id": "wet-market-carbon", "name": "Carbon wet market food stalls", "address": "Carbon, Cebu City", "lat": 10.2928, "lng": 123.9002, "rating": 4.0, "review_count": 1800},
+      {"place_id": "bulalo-carbon", "name": "Bulalo stalls near Carbon", "address": "Carbon, Cebu City", "lat": 10.2935, "lng": 123.8995, "rating": 4.2, "review_count": 950}
+    ],
+    "cafe": [
+      {"place_id": "coffee-corner-carbon", "name": "Coffee Corner (downtown)", "address": "Carbon area, Cebu City", "lat": 10.2945, "lng": 123.9005, "rating": 4.1, "review_count": 280},
+      {"place_id": "mugshots-carbon", "name": "Mugshots Coffee nearby", "address": "Cebu City", "lat": 10.2950, "lng": 123.9010, "rating": 4.2, "review_count": 420}
+    ],
+    "nightlife": [
+      {"place_id": "carbon-night", "name": "Carbon night market grills", "address": "Carbon, Cebu City", "lat": 10.2930, "lng": 123.8996, "rating": 4.0, "review_count": 1100},
+      {"place_id": "colon-night-carbon", "name": "Colon Street night scene", "address": "Colon St, Cebu City", "lat": 10.2942, "lng": 123.9017, "rating": 4.0, "review_count": 1800}
+    ],
+    "tourist": [
+      {"place_id": "carbon-heritage", "name": "Carbon Market cultural walk", "address": "Carbon, Cebu City", "lat": 10.2933, "lng": 123.8998, "rating": 4.2, "review_count": 3600},
+      {"place_id": "colon-from-carbon", "name": "Colon Street (adjacent)", "address": "Colon St, Cebu City", "lat": 10.2942, "lng": 123.9017, "rating": 4.1, "review_count": 4200},
+      {"place_id": "pasalubong-carbon", "name": "Carbon pasalubong center", "address": "Carbon, Cebu City", "lat": 10.2938, "lng": 123.8992, "rating": 4.0, "review_count": 1500}
+    ],
+    "nature": [
+      {"place_id": "pier-carbon", "name": "Cebu pier walk (from Carbon)", "address": "Pier area", "lat": 10.2915, "lng": 123.9060, "rating": 4.1, "review_count": 890},
+      {"place_id": "mountain-carbon", "name": "Busay / Sirao (taxi from Carbon)", "address": "Busay, Cebu City", "lat": 10.3780, "lng": 123.8720, "rating": 4.3, "review_count": 6500}
+    ],
+    "budget": [
+      {"place_id": "carbon-budget", "name": "Carbon Market budget meals", "address": "Carbon, Cebu City", "lat": 10.2933, "lng": 123.8998, "rating": 4.1, "review_count": 4800},
+      {"place_id": "wet-budget", "name": "Carbon wet market carinderia", "address": "Carbon, Cebu City", "lat": 10.2928, "lng": 123.9002, "rating": 4.0, "review_count": 1200}
+    ]
+  },
+  "lahug": {
+    "food": [
+      {"place_id": "jy-square", "name": "JY Square Lahug food court", "address": "Salinas Dr, Lahug", "lat": 10.3359, "lng": 123.9023, "rating": 4.2, "review_count": 2100},
+      {"place_id": "anzani-lahug", "name": "Anzani New Mediterranean", "address": "Lahug, Cebu City", "lat": 10.3345, "lng": 123.9015, "rating": 4.4, "review_count": 1800},
+      {"place_id": "orange-brutus", "name": "Orange Brutus Lahug", "address": "Lahug, Cebu City", "lat": 10.3365, "lng": 123.9035, "rating": 4.3, "review_count": 2400},
+      {"place_id": "la-vie-parisienne", "name": "La Vie Parisienne Cebu", "address": "Gorordo Ave, Lahug", "lat": 10.3320, "lng": 123.9040, "rating": 4.5, "review_count": 5200}
+    ],
+    "cafe": [
+      {"place_id": "coffee-bean-lahug", "name": "The Coffee Bean Lahug", "address": "Salinas Dr, Lahug", "lat": 10.3355, "lng": 123.9028, "rating": 4.3, "review_count": 680},
+      {"place_id": "drip-lahug", "name": "Drip Cafe Lahug", "address": "Lahug, Cebu City", "lat": 10.3340, "lng": 123.9020, "rating": 4.4, "review_count": 520},
+      {"place_id": "10-white-co", "name": "10 White Co. cafe", "address": "Lahug, Cebu City", "lat": 10.3338, "lng": 123.9032, "rating": 4.3, "review_count": 410},
+      {"place_id": "bos-lahug", "name": "Bo's Coffee Lahug", "address": "Gorordo Ave, Lahug", "lat": 10.3330, "lng": 123.9038, "rating": 4.2, "review_count": 480}
+    ],
+    "nightlife": [
+      {"place_id": "waterfront-lahug", "name": "Waterfront Hotel Lahug bar", "address": "Lahug, Cebu City", "lat": 10.3325, "lng": 123.9045, "rating": 4.2, "review_count": 1200},
+      {"place_id": "mango-lahug", "name": "Mango Avenue (from Lahug)", "address": "General Maxilom Ave", "lat": 10.3123, "lng": 123.8976, "rating": 4.0, "review_count": 2800},
+      {"place_id": "it-park-night", "name": "Cebu IT Park nightlife strip", "address": "Cebu IT Park, Lahug", "lat": 10.3305, "lng": 123.9066, "rating": 4.2, "review_count": 1500},
+      {"place_id": "pulp-lahug", "name": "Pulp Live Club", "address": "Lahug, Cebu City", "lat": 10.3280, "lng": 123.9040, "rating": 4.0, "review_count": 980}
+    ],
+    "tourist": [
+      {"place_id": "taoist-temple", "name": "Cebu Taoist Temple", "address": "Beverly Hills, Lahug", "lat": 10.3410, "lng": 123.8885, "rating": 4.5, "review_count": 7200},
+      {"place_id": "temple-of-leah", "name": "Temple of Leah", "address": "Busay, Cebu City", "lat": 10.3550, "lng": 123.8820, "rating": 4.3, "review_count": 8900},
+      {"place_id": "museo-sugbo", "name": "Museo Sugbo (short ride)", "address": "Cebu City", "lat": 10.2980, "lng": 123.9080, "rating": 4.4, "review_count": 3100},
+      {"place_id": "raintree-lahug", "name": "Raintree Restaurant strip", "address": "Lahug, Cebu City", "lat": 10.3328, "lng": 123.9042, "rating": 4.3, "review_count": 2100}
+    ],
+    "nature": [
+      {"place_id": "busay-tops-lahug", "name": "Tops of Cebu / Busay viewpoint", "address": "Busay, Cebu City", "lat": 10.3700, "lng": 123.8780, "rating": 4.4, "review_count": 8200},
+      {"place_id": "sirao-lahug", "name": "Sirao Flower Garden", "address": "Busay, Cebu City", "lat": 10.3780, "lng": 123.8720, "rating": 4.3, "review_count": 6800},
+      {"place_id": "mountain-view-lahug", "name": "Mountain View Nature's Park", "address": "Busay, Cebu City", "lat": 10.3750, "lng": 123.8820, "rating": 4.3, "review_count": 4500},
+      {"place_id": "beverly-hills-view", "name": "Beverly Hills Lahug view decks", "address": "Beverly Hills, Lahug", "lat": 10.3400, "lng": 123.8890, "rating": 4.2, "review_count": 1200}
+    ],
+    "budget": [
+      {"place_id": "jollibee-lahug", "name": "Jollibee Lahug", "address": "Salinas Dr, Lahug", "lat": 10.3350, "lng": 123.9025, "rating": 4.2, "review_count": 1400},
+      {"place_id": "sugbo-garden-bloc", "name": "Sugbo Mercado Garden Bloc", "address": "Cebu IT Park, Lahug", "lat": 10.3292, "lng": 123.9068, "rating": 4.3, "review_count": 3200},
+      {"place_id": "carenderia-lahug", "name": "Lahug carenderia row", "address": "Lahug, Cebu City", "lat": 10.3342, "lng": 123.9018, "rating": 4.0, "review_count": 480}
+    ]
+  },
+  "escario": {
+    "food": [
+      {"place_id": "escario-eats", "name": "House of Lechon (Escario area)", "address": "Escario St, Capitol Site, Cebu City", "lat": 10.3165, "lng": 123.8960, "rating": 4.4, "review_count": 3200},
+      {"place_id": "zubuchon-escario", "name": "Zubuchon Escario", "address": "Escario St, Cebu City", "lat": 10.3158, "lng": 123.8962, "rating": 4.5, "review_count": 2400},
+      {"place_id": "vibo-place", "name": "Vibo Place dining", "address": "Escario St, Cebu City", "lat": 10.3162, "lng": 123.8955, "rating": 4.2, "review_count": 890},
+      {"place_id": "ricos-escario", "name": "Rico's Lechon Escario", "address": "Escario St, Cebu City", "lat": 10.3155, "lng": 123.8965, "rating": 4.4, "review_count": 2100}
+    ],
+    "cafe": [
+      {"place_id": "bos-escario", "name": "Bo's Coffee Escario", "address": "Escario St, Capitol Site", "lat": 10.3160, "lng": 123.8958, "rating": 4.3, "review_count": 720},
+      {"place_id": "starbucks-escario", "name": "Starbucks Escario", "address": "Escario St, Cebu City", "lat": 10.3156, "lng": 123.8968, "rating": 4.3, "review_count": 580},
+      {"place_id": "coffee-bean-escario", "name": "The Coffee Bean Escario", "address": "Capitol Site, Cebu City", "lat": 10.3168, "lng": 123.8952, "rating": 4.2, "review_count": 410}
+    ],
+    "nightlife": [
+      {"place_id": "mango-near-escario", "name": "Mango Avenue (near Escario)", "address": "General Maxilom Ave, Cebu City", "lat": 10.3123, "lng": 123.8976, "rating": 4.0, "review_count": 2800},
+      {"place_id": "junkyard-escario", "name": "Junkyard Pub & Grill", "address": "Near Escario, Cebu City", "lat": 10.3145, "lng": 123.8970, "rating": 4.2, "review_count": 1100},
+      {"place_id": "capitol-bars", "name": "Capitol Site evening bars", "address": "Capitol Site, Cebu City", "lat": 10.3175, "lng": 123.8945, "rating": 4.1, "review_count": 620}
+    ],
+    "tourist": [
+      {"place_id": "chong-hua-escario", "name": "Chong Hua Hospital (landmark)", "address": "Escario area, Cebu City", "lat": 10.3168, "lng": 123.8948, "rating": 4.2, "review_count": 2400},
+      {"place_id": "cebu-capital", "name": "Cebu Provincial Capitol", "address": "Capitol Site, Cebu City", "lat": 10.3172, "lng": 123.8958, "rating": 4.3, "review_count": 2800},
+      {"place_id": "vicente-sotto", "name": "Vicente Sotto Memorial Medical Center", "address": "Cebu City", "lat": 10.3180, "lng": 123.8975, "rating": 4.1, "review_count": 1500}
+    ],
+    "nature": [
+      {"place_id": "capitol-park-escario", "name": "Capitol Site green pockets", "address": "Capitol Site, Cebu City", "lat": 10.3178, "lng": 123.8940, "rating": 4.0, "review_count": 380},
+      {"place_id": "busay-escario", "name": "Busay viewpoint (from Escario)", "address": "Busay, Cebu City", "lat": 10.3700, "lng": 123.8780, "rating": 4.4, "review_count": 7200}
+    ],
+    "budget": [
+      {"place_id": "escario-carenderia", "name": "Escario carenderia lane", "address": "Escario St, Cebu City", "lat": 10.3157, "lng": 123.8919, "rating": 4.0, "review_count": 520},
+      {"place_id": "capitol-market", "name": "Capitol Site cheap eats", "address": "Capitol Site, Cebu City", "lat": 10.3170, "lng": 123.8950, "rating": 4.0, "review_count": 410}
+    ]
+  }
+}
