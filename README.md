@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # StrollWise
 
 StrollWise is a crowd-sourced travel intelligence app. It uses **H3** hex cells to aggregate reports into **map-ready zones** (traveler mix + place type) without exposing individual trajectories in public APIs.
