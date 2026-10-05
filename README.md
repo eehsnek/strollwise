@@ -1,3 +1,17 @@
+How to Run the system
+postgresql database credentials
+user: strollwise
+password: strollwise
+
+switch from Drive C to Drive D: just type D:
+
+How to run the backend
+run: .\.venv\Scripts\Activate.ps1 in backend to active the virtual environment
+run uvicorn app.main:app --reload
+
+How to run the frontend
+run: flutter run -d edge
+
 # StrollWise
 
 StrollWise is a crowd-sourced travel intelligence app. It uses **H3** hex cells to aggregate reports into **map-ready zones** (traveler mix + place type) without exposing individual trajectories in public APIs.
