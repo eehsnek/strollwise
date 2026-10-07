@@ -6,8 +6,8 @@ password: strollwise
 switch from Drive C to Drive D: just type D:
 
 How to run the backend
-run: .\.venv\Scripts\Activate.ps1 in backend to active the virtual environment
-run uvicorn app.main:app --reload
+run: `.\.venv\Scripts\Activate.ps1` in backend to active the virtual environment
+run `uvicorn app.main:app --reload` to run the backend
 
 How to run the frontend
 run: flutter run -d edge
